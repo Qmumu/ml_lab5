@@ -1,7 +1,6 @@
 
-Sure, I can help you create a README for a GitHub project based on the collaborative filtering recommender system exercise. Here's a sample README template you can use and modify according to your project's specifics:
+# Collaborative Filtering Recommender System
 
-Collaborative Filtering Recommender System
 This project implements a collaborative filtering learning algorithm to build a recommender system for movies. It utilizes collaborative filtering to suggest movies to users based on their previous ratings and the ratings of other users with similar tastes.
 
 Overview
